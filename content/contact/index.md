@@ -1,7 +1,7 @@
 ---
 title: "お問合わせ"
 date: 2019-12-17T23:58:33+09:00
-description: Contact page
+description: お問い合わせ
 service: netlifyform
 recaptcha: true
 redirect-after-submit: "/redirect"
