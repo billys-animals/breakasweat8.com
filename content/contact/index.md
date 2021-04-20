@@ -2,7 +2,6 @@
 title: "Contact"
 description: Contact page
 type: contact
-service: formspree
 formId: "talk@breakasweat8.com"
 ---
 <!-- modify this form HTML and place wherever you want your form -->
