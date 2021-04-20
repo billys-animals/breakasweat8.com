@@ -1,7 +1,7 @@
 ---
 title: "Contact"
 description: Contact page
-type: contact
+type: about
 ---
 <!-- modify this form HTML and place wherever you want your form -->
 
