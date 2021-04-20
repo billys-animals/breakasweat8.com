@@ -1,9 +1,10 @@
 ---
-title: "お問い合わせ"
-description: お問い合わせのページ
+title: "Contact Me"
+description: Contact page
 type: contact
-service: formspree
-formId: "talk@breakasweat8.com"
+service: netlifyform
+recaptcha: true
+redirect-after-submit: "/redirect"
 ---
 
-お問い合わせのページ
+Thanks for choosing to reach out! I will get back to you shortly.
