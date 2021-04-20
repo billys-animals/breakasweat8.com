@@ -15,7 +15,7 @@ type: about
   </label>
   <label><hr \?
     メッセージ:
-    textarea name="kanso" rows="4" cols="40"></textarea>
+    <textarea name="kanso" rows="4" cols="40"></textarea>
   </label>
 
   <!-- your other form fields go here -->
