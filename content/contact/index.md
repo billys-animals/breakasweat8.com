@@ -13,9 +13,9 @@ type: about
     あなたのＥメールアドレス:
     <input type="email" name="_replyto">
   </label>
-  <label><hr \?
+  <label><hr \>
     メッセージ:
-    <textarea name="kanso" rows="4" cols="40"></textarea>
+    <textarea name="message" rows="4" cols="40"></textarea>
   </label>
 
   <!-- your other form fields go here -->
