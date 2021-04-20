@@ -3,6 +3,8 @@ title: "Contact Me"
 description: Contact page
 type: contact
 service: netlifyform
+recaptcha: true
+redirect-after-submit: "/redirect"
 ---
 
 <form name="contact" method="POST" data-netlify="true">
