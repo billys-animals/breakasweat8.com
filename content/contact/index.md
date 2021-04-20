@@ -1,6 +1,6 @@
 ---
-title: "Contact"
-description: Contact page
+title: "お問い合わせのページ"
+description: お問い合わせのページ
 type: about
 ---
 <!-- modify this form HTML and place wherever you want your form -->
@@ -10,15 +10,15 @@ type: about
   method="POST"
 >
   <label>
-    Your email:
+    あなたのＥメールアドレス:
     <input type="email" name="_replyto">
   </label>
-  <label>
-    Your message:
-    <textarea name="message"></textarea>
+  <label><hr \?
+    メッセージ:
+    textarea name="kanso" rows="4" cols="40"></textarea>
   </label>
 
   <!-- your other form fields go here -->
 
-  <button type="submit">Send</button>
+  <button type="submit">送信</button>
 </form>
