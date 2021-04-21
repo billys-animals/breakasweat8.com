@@ -40,52 +40,6 @@ Udemy（親会社はベネッセです）の各種講座はUdemyという箱の�
 
 簡単な講座の特徴を以下に示します。
 
-  1. **Q&A機能により講座内容に関する質問とその解答を皆で共有できる**
-  2. **ITパスポート試験の合格に向けた内容としては十分なボリュームがある**
-  3. **25個のダウンロード可能なリソース**
-  4. **スマホとPCでいつでもどこでも受講が出来る**
-  5. **受講終了証明書の発行あり**
-  6. **30日間返金保証**
-  7. **学習期間の制限なし（何年先でも受講可能ということです）**
-
-<div class="what-you-get__title ">
-  <em><strong>学習内容</strong></em>
-</div>
-
-<ul class="what-you-get__items ">
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">企業の経営戦略、マーケティング、財務、技術戦略、システム戦略に関する知見が身につきます</span></em>
-  </li>
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">システムの開発技術、プロジェクトマネジメント、サービスマネジメント、システム監査に関する知見が身につきます</span></em>
-  </li>
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">ITのテクノロジーに関する知識、アルゴリズム、コンピュータアーキテクチャ、データベース、ネットワーク、セキュリティ関する知見が身につきます</span></em>
-  </li>
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">AI, IoT, ビッグデータなどの最新の分野の知識が身につきます</span></em>
-  </li>
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">システムのセキュリティマネジメントについて詳細な知識が身につきます</span></em>
-  </li>
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">ITパスポート試験に合格できるようになります</span></em>
-  </li>
-  <li class="what-you-get__item what-you-get__item--columns">
-    <em><span class="udi udi-check what-you-get__icon"></span><span class="what-you-get__text">情報セキュリティマネジメント試験に合格できるようになります</span></em>
-  </li>
-</ul>
-
-## <span id="i-2">おすすめする理由</span>
-
-カリキュラムは合計で20時間とたっぷりです。（内ITパスポートのみの部分はおよそ半分の10時間前後）
-
-### <span id="i-3"><strong>担当講師の上位講座を受講しています</strong></span>
-
-わたし自身が「<span class="line-pink">最新版:　基本情報技術者試験+応用情報技術者試験+Python+SQL　初心者からプロのエンジニアになる講座」</span>を受講している最中です。講師のN Matsumotoさんの授業は、解説が分かり易く丁寧なのでコストパフォーマンスの高さを含めて品質の部分でも満足できるレベルを提供してくれております。
-
-
-> "京都大学工学部卒業、東京大学大学院情報理工学系研究科卒業。大学院の頃にWebアプリの制作の仕事に従事し、プログラミングに傾倒、大学院卒業後、日系SIerに就職しました。主に、インフラを担当。インフラ構築、設計、マネジメントをしてきました。５年間でSIerを退職。フリーランスのエンジニアとして独立しました。以後、pythonでのアプリ開発と機械学習を用いた仕事をしています。Udemyでは、SEの頃に身につけた綿密さ、説明の丁寧さ、フリーランスのエンジニアとして身につけた専門性、技術力を武器に、実用的な人気講座をわかりやすく作成したいです。"
 
 
 
@@ -99,9 +53,6 @@ Udemy（親会社はベネッセです）の各種講座はUdemyという箱の�
 
 このUdemyのシステムは講座内にQ&A機能が設置されているので講師に対して簡単に質問ができます。プライベートな質問は無理ですが、講座の内容についての質問であれば特に回数制限もありません。
 
-#### <span id="QA-2">Q&A機能の中身</span>
-
-Yahoo知恵袋の様な感じで質問に対して講師が解決するまで粘り強く解答していました。**<span class="red">ある1つの過去問の解答に至るまでの考え方についての質問に対して、4回も講師がキチンと対応しております。講師のN Matsumotoさんのきめ細やかな対応に感動しました。</span>**
 
 ### <span id="i-4">飽きてしまう</span>
 
@@ -129,8 +80,7 @@ ITパスポート試験に700点で受かった自分にはとてもおこがま
 
 IT関連の職についた事がなく、ITに免疫がない人であれば書籍の参考書だけでなく、WEB講座なども平行して受講すると良いと思います。あと、学生さんなどはいきなり参考書よりもこういった講座を流し視聴するだけでぼんやりと頭にキーワードが入ってくるのでおすすめですね。
 
-<span class="a8ad 3b2TV26-g7-rPYFM6F"></span><script type="text/javascript" src="//statics.a8.net/ad/ad.js"></script><script type="text/javascript">a8adscript('body').showAd({"req": {"mat":"2ZH6XJ+E4HK0A+3L4M+BWGDT","alt":"商品リンク","id":"3b2TV26-g7-rPYFM6F"},"goods": {"ejp":"h"+"ttps://www.udemy.com/course/it-it-sf/","imu":"h"+"ttps://i.udemycdn.com/course/240x135/2508650_374e_8.jpg"}});</script>
-<strong>最新版:　ITパスポート試験 + 情報セキュリティマネジメント試験　講義＆過去問解説</strong>
+
 
 ### <span id="i-6">まとめ</span>
 
