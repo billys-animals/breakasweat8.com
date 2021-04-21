@@ -22,6 +22,8 @@ ITパスポートの合格率は50％前後と言われていますが、かな�
 <a href="https://px.a8.net/svt/ejp?a8mat=2ZH6XJ+E4HK0A+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitpassport%2Flearn%2Flecture%2F18711200%23overview" rel="nofollow">ＩＴパスポート合格点や合格率について</a>
 <img border="0" width="1" height="1" src="https://www19.a8.net/0.gif?a8mat=2ZH6XJ+E4HK0A+3L4M+BW8O2" alt="">
 
+↑**この動画を見ることであまり知られていない「合格点・何割とれば合格可能か？」に関しての詳細を知ることが出来ます（無料で視聴出来ます）。**
+
 
 
 少なくとも普通の人が合格するにはある一定の期間は「高校受験の対策の時の様な努力」をしないと合格できません。そのある一定の期間は個人個人で異なるので、全て同じ土俵で表現するのは混乱の原因になります。
