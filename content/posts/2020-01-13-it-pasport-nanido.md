@@ -18,6 +18,8 @@ ITパスポートの合格率は50％前後と言われていますが、かな�
 
 
 他の情報処理技術者試験に比べれば相当簡単なのは確実です。
+<span class="a8ad 3b2TV26-g7-svbcypR"></span><script type="text/javascript" src="//statics.a8.net/ad/ad.js"></script><script type="text/javascript">a8adscript('body').showAd({"req": {"mat":"2ZH6XJ+E4HK0A+3L4M+BWGDT","alt":"商品リンク","id":"3b2TV26-g7-svbcypR"},"goods": {"ejp":"h"+"ttps://www.udemy.com/course/itpassport/learn/lecture/18711200#overview","imu":"h"+"ttps://img-a.udemycdn.com/course/240x135/2901950_6da7_3.jpg?NrdhxPE97dsujIvoPqF7jqDl_jESue20GA2F6KlQRzcYsjVtiE3Z09p4NZSM6fCzFLEcz6OfNxoc1IieHjN4st38JABvz60_hlna_W57yL_BU7m5gt67Gm362MSjA-px"}});</script>
+
 
 少なくとも普通の人が合格するにはある一定の期間は「高校受験の対策の時の様な努力」をしないと合格できません。そのある一定の期間は個人個人で異なるので、全て同じ土俵で表現するのは混乱の原因になります。
 
