@@ -80,6 +80,8 @@ ITパスポート試験に700点で受かった自分にはとてもおこがま
 
 IT関連の職についた事がなく、ITに免疫がない人であれば書籍の参考書だけでなく、WEB講座なども平行して受講すると良いと思います。あと、学生さんなどはいきなり参考書よりもこういった講座を流し視聴するだけでぼんやりと頭にキーワードが入ってくるのでおすすめですね。
 
+<a href="https://px.a8.net/svt/ejp?a8mat=2ZH6XJ+E4HK0A+3L4M+BW8O2&a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fcourse%2Fitpassport%2F" rel="nofollow">ITパスポート最速合格コース ～効率的な学習で0から合格まで～</a>
+<img border="0" width="1" height="1" src="https://www17.a8.net/0.gif?a8mat=2ZH6XJ+E4HK0A+3L4M+BW8O2" alt="">
 
 
 ### <span id="i-6">まとめ</span>
