@@ -16,7 +16,7 @@ rssLimit = 100
 relativeURLs = true
 
 enableGitInfo = false
-googleAnalytics = ""
+googleAnalytics = "UA-120517344-4"
 
 [markup]
 [markup.goldmark]
