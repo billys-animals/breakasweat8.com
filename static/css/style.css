@@ -336,8 +336,8 @@
   background-repeat: no-repeat;
 }
 .page-toc {
-    margin: 1em;
-    padding: 1em;
+    margin: 0.5em;
+    padding: 0.5em;
     width: auto;
     border: 1px solid #ddd;
 }
