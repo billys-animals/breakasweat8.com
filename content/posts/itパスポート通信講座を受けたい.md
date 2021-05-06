@@ -98,6 +98,9 @@ ITパスポート合格に向けたＷＥＢ講座で有名なものは、スタ
 合格体験者の口コミ等の感想はスタディングと同様に信憑性が高い内容になっています。
 合格率は90％越えという大変素晴らしい成果が上がっています。
 
+<a href="https://t.afi-b.com/visit.php?guid=ON&a=N5157J-B159515n&p=q811900S" rel="nofollow"><img src="https://www.afi-b.com/upload_image/5157-1341966890-3.gif" width="120" height="90" style="border:none;" alt="ＩＴパスポート" /></a><img src="https://t.afi-b.com/lead/N5157J/q811900S/B159515n" width="1" height="1" style="border:none;" />
+
+
 ## 価格（費用）について
 
 1. スタディング： 7,920円
