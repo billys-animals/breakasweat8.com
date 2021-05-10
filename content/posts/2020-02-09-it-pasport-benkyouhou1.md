@@ -14,9 +14,6 @@ ITパスポート試験の対策で一夜漬けで合格出来る様な便利な
 
 ここでは経験知識レベルの応じた勉強法や、複数回に渡ってITパスポート試験に挑戦して受からない人、落ちた人に向けた再受験対策もご提示させて頂きます。
 
-{{< button href="https://breakasweat8.com/2020/02/09/it-pasport-tusin-kouza/#udemyit%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E9%80%9A%E4%BF%A1%E8%AC%9B%E5%BA%A7" width="100px" height="36px" color="primary" >}}button{{< /button >}}
-
-
 
 ## 受からない（落ちた）人が見落とした罠
 
@@ -71,6 +68,7 @@ ITパスポート試験の対策で一夜漬けで合格出来る様な便利な
 
 ※一番問題数の多い「テクノロジ系（IT技術）」を頑張るのが一番効果的です。
 
+{{< button href="https://breakasweat8.com/2020/02/09/it-pasport-tusin-kouza/#udemyit%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E9%80%9A%E4%BF%A1%E8%AC%9B%E5%BA%A7" width="100px" height="36px" color="primary" >}}button{{< /button >}}
 
 
 ## 合格する為の勉強時間
