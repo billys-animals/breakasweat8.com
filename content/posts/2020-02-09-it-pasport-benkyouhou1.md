@@ -68,10 +68,6 @@ ITパスポート試験の対策で一夜漬けで合格出来る様な便利な
 
 ※一番問題数の多い「テクノロジ系（IT技術）」を頑張るのが一番効果的です。
 
-{{< button href="https://breakasweat8.com/" width="100px" height="36px" color="#82aaff" >}}ボタン
-{{< /button >}}
-
-
 ## 合格する為の勉強時間
 
 [ITパスポートの学習方法](https://breakasweat8.com/2020/02/09/it-pasport-tusin-kouza/#span-idit-2it%E3%83%91%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%88%E3%81%AE%E5%AD%A6%E7%BF%92%E6%96%B9%E6%B3%95span)は人によりマチマチなので大括りで扱うと駄目です。以下、「基本情報処理技術者資格」以上の資格を持っていない人を前提にレベル分けさせて頂き対策を書かせて頂きたいと思います。
