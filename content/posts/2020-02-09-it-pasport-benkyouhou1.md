@@ -68,7 +68,8 @@ ITパスポート試験の対策で一夜漬けで合格出来る様な便利な
 
 ※一番問題数の多い「テクノロジ系（IT技術）」を頑張るのが一番効果的です。
 
-{{< button href="https://breakasweat8.com/" width="100px" height="36px" color="light_primary_color" >}}ボタン{{< /button >}}
+{{< button href="https://breakasweat8.com/" width="100px" height="36px" color="#82aaff" >}}ボタン
+{{< /button >}}
 
 
 ## 合格する為の勉強時間
